@@ -112,6 +112,17 @@ h1,h2,h3{
 .buy {
   padding: 0.5rem 3.4rem;
 }
+#image-price{
+  width: 70%;
+}
+.card{
+  padding-left: 7rem;
+  height: 25rem;
+}
+.row{
+
+}
+
 
 /*Download*/
 
@@ -148,7 +159,8 @@ h1,h2,h3{
     text-align: center;
   }
 
-  .Heading-image {
+  .Heading-image{
     width: 29rem;
   }
 }
+/* col-lg-4 col-md-12 col-sm-12*/
